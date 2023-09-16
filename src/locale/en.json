@@ -1,0 +1,60 @@
+{
+  "appName": "FM Education",
+  "welcome": "Welcome Back",
+  "welcomeInfo": "Enter your email and password to sign in",
+  "email": "Email",
+  "password": "Password",
+  "oldPassword": "Old Password",
+  "signIn": "SIGN IN",
+  "signInSuccess": "Sign in success",
+  "error": "An unexpected error has occurred",
+  "searchTable": "Search",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "active": "Active",
+  "filter": "Filter",
+  "nameSurname": "Fullname",
+  "phoneNumber": "Phone Number",
+  "recordDate": "Record Date",
+  "status": "Status",
+  "adminTable": "Admin List",
+  "adminCreate": "Admin Create",
+  "adminDetail": "Admin Detail",
+  "dashboard": "Dashboard",
+  "name": "Name",
+  "surname": "Surname",
+  "create": "Create",
+  "update": "Update",
+  "success": "The transaction was successful",
+  "deletePopupTitle": "Are you sure?",
+  "deletePopupText": "You won't be able to revert this!",
+  "deletePopupSuccessBtn": "Yes, delete it!",
+  "deletePopupCancelBtn": "Cancel",
+  "coverTable": "Cover List",
+  "cover": "Cover",
+  "branchTable": "Branch List",
+  "branchDetail": "Branch Detail",
+  "branchCreate": "Branch Create",
+  "address": "Address",
+  "classTable": "Class List",
+  "branch": "Branch",
+  "classCreate": "Class Create",
+  "choose": "Choose",
+  "classDetail": "Class Detail",
+  "class": "Class",
+  "savedStudent": "Saved Student",
+  "studentTable": "Student List",
+  "studentCreate": "Student Create",
+  "studentDetail": "Student Detail"
+
+
+
+
+
+
+
+
+
+
+
+}
